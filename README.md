@@ -1,4 +1,4 @@
-# IITG Internship Assignments: Computer Vision & NLP Projects
+# IITG Internship Assignments
 
 [![Python](https://img.shields.io/badge/Python_3.9_+-3776AB?logo=python&logoColor=FF6F00)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)](https://pytorch.org)
@@ -13,7 +13,6 @@
 - [📈 Results Summary](#-results-summary)
 - [⚙️ Quick Start](#️-quick-start)
 - [🚀 Future Work](#-future-work)
-- [👨‍💻 Author](#-author)
 
 ## 🎯 Project Overview
 
@@ -112,8 +111,8 @@ This repository contains four distinct deep learning projects, each addressing d
 | Project | Model | Dataset | Accuracy | Key Metric |
 |---------|-------|---------|----------|------------|
 | Twitter Sentiment | BERT | Twitter Entity Sentiment | 97.83% | Validation Accuracy |
-| MNIST Digits | CNN vs MLP | MNIST | Comparative | Architecture Comparison |
-| Dog vs Cat | ResNet-101 | Microsoft Cats & Dogs | - | Transfer Learning Demo |
+| MNIST Digits | CNN vs MLP | MNIST | 99.30% vs 98.17% | Architecture Comparison |
+| Dog vs Cat | ResNet-101 | Microsoft Cats & Dogs | 99.54% | Transfer Learning Demo |
 | CIFAR-10 Benchmark | Multiple Models | CIFAR-10 | See Below | Model Comparison |
 
 ### CIFAR-10 Detailed Results
@@ -135,16 +134,24 @@ This repository contains four distinct deep learning projects, each addressing d
 </td>
 </tr>
 <tr>
+<td rowspan="2" align="center">
+
+**Dog vs Cat Classification**
+![Dog Cat Results](https://raw.githubusercontent.com/ritanjit/Dog_vs_Cat_ResNet101/main/model_predictions.png)
+
+</td>
 <td align="center">
 
 **MNIST Classification**
 ![MNIST Results](https://raw.githubusercontent.com/ritanjit/MNIST_Digit_Classification_MLP_CNN/main/model_predictions_CNN.png)
 
 </td>
+</tr>
+<tr>
 <td align="center">
 
-**Dog vs Cat Classification**
-![Dog Cat Results](https://raw.githubusercontent.com/ritanjit/Dog_vs_Cat_ResNet101/main/model_predictions.png)
+**CIFAR-10 Classification**
+![Performance Comparison](https://raw.githubusercontent.com/ritanjit/CIFAR-10_Classification_Models/main/Model_Comparision.png) 
 
 </td>
 </tr>
@@ -195,8 +202,7 @@ This repository contains four distinct deep learning projects, each addressing d
 ---
 
 <div align="center">
-  
-## 👨‍💻 Author
+
 
 **⭐ Star this repository if you found it helpful!**
 
