@@ -119,11 +119,12 @@ This repository contains four distinct deep learning projects, each addressing d
 
 | Model | Test Accuracy |
 |-------|---------------|
-| Custom CNN | 86.23% |
+| CNN | 86.23% |
 | AlexNet | 82.91% |
-| Inception V3 | 74.89% |
+| Inception | 74.89% |
 | Custom Architecture | 67.59% |
-| ResNet18 | 61.70% |
+| ResNet | 61.70% |
+| Mean Accuracy : | 74.86% |
 
 <table>
 <tr>
