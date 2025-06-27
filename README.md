@@ -195,6 +195,8 @@ This repository contains four distinct deep learning projects, each addressing d
 ---
 
 <div align="center">
+  
+## 👨‍💻 Author
 
 **⭐ Star this repository if you found it helpful!**
 
